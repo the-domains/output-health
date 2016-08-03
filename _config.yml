@@ -1,0 +1,14 @@
+layout_spectrum: 0.21667316230013967
+typography_spectrum: 0.5001557259820402
+color:
+  brandStrength: 0.8107677074149251
+  lightness: 0.14938317402265966
+  saturation: 0.3332618980202824
+  rhythmicContrast: 0.5738074721302837
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Output Health
